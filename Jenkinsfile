@@ -32,7 +32,7 @@
         }
         post {
             always {
-                // Cleanup or notification steps
+               echo "I am done, yeah!" 
             }
         }
     }
